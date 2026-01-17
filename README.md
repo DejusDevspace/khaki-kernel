@@ -31,7 +31,7 @@ The repository is structured by day to represent the linear progression of the "
 - A1: Batch A, Stream 1 (The build version).
 - v26: Year 2026.
 - kernel: Core daily activities and system-level discipline.
-- exit-status-0: Unix standard for a successful program completion\* without errors.
+- exit-status-0: Unix standard for a successful program completion without errors.
 
 📡 Status
 Current Status: AWAITING DEPLOYMENT 🟠
