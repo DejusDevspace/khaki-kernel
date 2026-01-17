@@ -1,5 +1,7 @@
 # 🪖 Khaki-Kernel: NYSC Orientation Logs
 
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)]()
+
 A 21-day "runtime log" capturing the discipline, drills, and daily operations of the NYSC Orientation Camp (2026 Batch A, Stream 1). It's basically my daily journal entry (or something of the sort). Let's see how it goes...
 
 ## 📌 Project Overview
