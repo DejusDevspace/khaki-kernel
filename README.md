@@ -37,4 +37,5 @@ The repository is structured by day to represent the linear progression of the "
 
 📡 Status
 Current Status: AWAITING DEPLOYMENT 🟠
+
 Final Termination Date: Feb 10, Day 21 (Closing Ceremony)
