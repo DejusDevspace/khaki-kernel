@@ -9,7 +9,7 @@ A 21-day "runtime log" capturing the discipline, drills, and daily operations of
 This repository serves as a digital time capsule and a commitment to consistency. During the 21-day mandatory camp period, I am documenting the transition from civilian to corps member through a series of daily system logs.
 
 - Objective: Maintain a 21-day GitHub commit streak.
-- Environment: NYSC Orientation Camp, Abuja, Nigeria.
+- Environment: NYSC Orientation Camp, Kubwa, Abuja, Nigeria.
 - Version: 2026.A1
 
 ## 📂 File Architecture
@@ -36,6 +36,6 @@ The repository is structured by day to represent the linear progression of the "
 - exit-status-0: Unix standard for a successful program completion without errors.
 
 📡 Status
-Current Status: AWAITING DEPLOYMENT 🟠
+Current Status: DEPLOYED 🟢
 
 Final Termination Date: Feb 10, Day 21 (Closing Ceremony)
